@@ -3,7 +3,7 @@
 Иногда происходит потребность разбить один xlsx файл на весколько маленьких построчно. Например у вас есть таблица с логинами и паролями, каждому пользователю вы должны отправить логин и пароль в отдельном XLSX файле. Руками это делать долго и не удобно ведь заголовок также должен присудствовать в файле.
 
 ## Установка
- - Установите библиотеки из файла [requirements.txt](https://github.com/Thorgathis/xlsx-splitter/blob/master/requirements.txt)
+ - Установите библиотеки из файла [requirements.txt](https://github.com/Thorgathis/xlsx-splitter/blob/master/requirements.txt) с помощью команды ```pip install -r requirements.txt```
  - Убедитель что файл [main.py](https://github.com/Thorgathis/xlsx-splitter/blob/master/main.py) находится в одной директории с файлом book.xslx(Другие названия программа не принимает)
  - Запустите файла [main.py](https://github.com/Thorgathis/xlsx-splitter/blob/master/main.py)
 
