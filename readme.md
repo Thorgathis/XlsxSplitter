@@ -11,8 +11,8 @@ There are situations where you may need to split a single XLSX file into multipl
   <summary>Copy commands tree</summary>
 
   ```
-  git clone https://github.com/Thorgathis/YContestParser.git
-  cd YContestParser
+  git clone https://github.com/Thorgathis/XlsxSplitter.git
+  cd XlsxSplitter
   pip install -r requirements.txt
   ```
 </details>
